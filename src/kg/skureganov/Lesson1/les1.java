@@ -1,4 +1,4 @@
-package kg.skureganov;
+package kg.skureganov.Lesson1;
 
 import java.util.ArrayList;
 
